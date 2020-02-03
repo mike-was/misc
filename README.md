@@ -7,5 +7,7 @@ The secondary goal is to learn whether syncing with local files on my main compu
 
 A third goal is to capture thoughts on what I think I need to learn.
 
+A fourth goal is to learn Github markdown specs.
+
 Q: Will I be able to delete this if I need to later?
 
