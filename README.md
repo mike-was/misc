@@ -1,4 +1,4 @@
-# misc
+# Goals and Overview
 Learning how to create a repo
 
 The purpose of this repo is to learn how to create, edit, and update files in Github using the online tools.
